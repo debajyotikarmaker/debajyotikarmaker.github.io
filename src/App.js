@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <h2>DEV React hosted!!</h2>
-      <h1>Personal website</h1>
+      <h1>Personal website !!!</h1>
     </div>
   )
 }
